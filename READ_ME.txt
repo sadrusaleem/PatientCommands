@@ -1,0 +1,1 @@
+This was a take-home assignment I recently did for a co-op interview. I was given the JSON Files in the folder and had to parse them and be able to run several commands on the given files. The Main class clearly defines these commands. Everything is done through stdin and stdout so you can test it out yourself.
